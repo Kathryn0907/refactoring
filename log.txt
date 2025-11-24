@@ -1,8 +1,30 @@
-8b1029c (HEAD -> main, origin/main, origin/HEAD) Task 1.1
-e721468 first
-2b4f164 fixed tests for the not-for-credit tasks; parameter ordering and ensuring consistent line endings.
-ff5004e adding shortcut keys for Inline Variable (Re: Piazza question)
-b545fe2 clarifying extracted method names in README.md
-a0124c9 fixing starter file
-c8d9d38 adding starter files
-cbe4517 first commit
+commit 485c896ebcc520dd0af411d45885a4f17b27fcad (HEAD -> main, origin/main, origin/HEAD)
+Author: Kathryn0907 <yckathryn.wang@mail.utoronto.ca>
+Date:   Mon Nov 24 12:57:57 2025 -0500
+
+    task 2.4
+
+commit e9096e080d475804685f375d0f48a053ddfc131f
+Author: Kathryn0907 <yckathryn.wang@mail.utoronto.ca>
+:...skipping...
+commit 485c896ebcc520dd0af411d45885a4f17b27fcad (HEAD -> main, origin/main, origin/HEAD)
+Author: Kathryn0907 <yckathryn.wang@mail.utoronto.ca>
+Date:   Mon Nov 24 12:57:57 2025 -0500
+
+    task 2.4
+
+commit e9096e080d475804685f375d0f48a053ddfc131f
+Author: Kathryn0907 <yckathryn.wang@mail.utoronto.ca>
+Date:   Mon Nov 24 12:45:16 2025 -0500
+
+    task 2.3
+
+commit ee7eecf4702470323b32650bb3e9c0a584012312
+Author: Kathryn0907 <yckathryn.wang@mail.utoronto.ca>
+Date:   Mon Nov 24 12:32:20 2025 -0500
+
+    task 2.2
+
+commit c1589b818d0aba8f06765cf0fdd7e1d982240cd0
+Author: Kathryn0907 <yckathryn.wang@mail.utoronto.ca>
+Date:   Mon Nov 24 12:21:09 2025 -0500c%
